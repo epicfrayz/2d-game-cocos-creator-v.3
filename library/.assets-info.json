@@ -1,0 +1,124 @@
+{
+  "C:\\Users\\qp\\test_1\\assets\\background.jpg.meta": {
+    "time": 1625591295912.1533
+  },
+  "C:\\Users\\qp\\test_1\\assets\\ground.png.meta": {
+    "time": 1625591295863.183
+  },
+  "C:\\Users\\qp\\test_1\\assets\\platform.png.meta": {
+    "time": 1625591295831.2058
+  },
+  "C:\\Users\\qp\\test_1\\assets\\PurpleMonster.png.meta": {
+    "time": 1625591251779.7007
+  },
+  "C:\\Users\\qp\\test_1\\assets\\star.png.meta": {
+    "time": 1625591251805.6821
+  },
+  "C:\\Users\\qp\\test_1\\assets\\Character.meta": {
+    "time": 1625590677536.9307
+  },
+  "C:\\Users\\qp\\test_1\\assets\\Character\\PurpleMonster.png.meta": {
+    "time": 1625590666075.5679
+  },
+  "C:\\Users\\qp\\test_1\\assets\\Star.meta": {
+    "time": 1625590686493.3357
+  },
+  "C:\\Users\\qp\\test_1\\assets\\Star\\star.png.meta": {
+    "time": 1625590666245.4648
+  },
+  "C:\\Users\\qp\\test_1\\assets\\scenes.meta": {
+    "time": 1625591270771.3162
+  },
+  "C:\\Users\\qp\\test_1\\assets\\scenes\\scene.scene.meta": {
+    "time": 1625591279537.4517
+  },
+  "C:\\Users\\qp\\test_1\\assets\\background.jpg": {
+    "time": 1601202222000,
+    "uuid": "7cdec01b-ecfb-4ee0-b1ca-03636a70f8cd",
+    "missing": false
+  },
+  "C:\\Users\\qp\\test_1\\assets\\ground.png": {
+    "time": 1601202222000,
+    "uuid": "66f9e263-be39-4411-9791-306b1da00ff0",
+    "missing": false
+  },
+  "C:\\Users\\qp\\test_1\\assets\\platform.png": {
+    "time": 1623560323395.637,
+    "uuid": "b4fb965a-f597-441e-b4d3-cff17f83c767",
+    "missing": false
+  },
+  "C:\\Users\\qp\\test_1\\assets\\character.meta": {
+    "time": 1625591260369.6655
+  },
+  "C:\\Users\\qp\\test_1\\assets\\character": {
+    "time": 1625595769979.243,
+    "uuid": "21a450a4-39ea-4d29-a93c-378a9bcfd92c",
+    "missing": false
+  },
+  "C:\\Users\\qp\\test_1\\assets\\star.meta": {
+    "time": 1625591265937.577
+  },
+  "C:\\Users\\qp\\test_1\\assets\\star": {
+    "time": 1625594740850.2534,
+    "uuid": "2420e034-186a-4d93-a22f-1141534ee76d",
+    "missing": false
+  },
+  "C:\\Users\\qp\\test_1\\assets\\scenes": {
+    "time": 1625591279510.461,
+    "uuid": "68ff0728-7b86-4eda-80c0-3a8710eee5e9",
+    "missing": false
+  },
+  "C:\\Users\\qp\\test_1\\assets\\scenes\\scene.scene": {
+    "time": 1625595931966.3003,
+    "uuid": "5d58b6ff-28b3-4b40-82f3-31d57103930e",
+    "missing": false
+  },
+  "C:\\Users\\qp\\test_1\\assets\\character\\PurpleMonster.png.meta": {
+    "time": 1625591296007.9888
+  },
+  "C:\\Users\\qp\\test_1\\assets\\character\\PurpleMonster.png": {
+    "time": 1601202222000,
+    "uuid": "808100df-78d4-475e-94c2-ef05b3190137",
+    "missing": false
+  },
+  "C:\\Users\\qp\\test_1\\assets\\star\\star.png.meta": {
+    "time": 1625591295978.0078
+  },
+  "C:\\Users\\qp\\test_1\\assets\\star\\star.png": {
+    "time": 1601202222000,
+    "uuid": "61ef5d7a-559a-44e9-8503-4dadda0635dd",
+    "missing": false
+  },
+  "C:\\Users\\qp\\test_1\\assets\\character\\player.ts.meta": {
+    "time": 1625593011058.0232
+  },
+  "C:\\Users\\qp\\test_1\\assets\\character\\player.ts": {
+    "time": 1625595258362.3809,
+    "uuid": "963218c5-67a7-45c2-9613-bbd6219135fd",
+    "missing": false
+  },
+  "C:\\Users\\qp\\test_1\\assets\\star\\star.ts.meta": {
+    "time": 1625594669604.9343
+  },
+  "C:\\Users\\qp\\test_1\\assets\\star\\star.ts": {
+    "time": 1625594725859.105,
+    "uuid": "a2d41e11-5136-4182-b94d-b8732fdfd630",
+    "missing": false
+  },
+  "C:\\Users\\qp\\test_1\\assets\\star\\star.prefab.meta": {
+    "time": 1625594740861.2512
+  },
+  "C:\\Users\\qp\\test_1\\assets\\star\\star.prefab": {
+    "time": 1625594740856.2493,
+    "uuid": "db196718-d1c7-462c-aaf2-6f1f7e93b61f",
+    "missing": false
+  },
+  "C:\\Users\\qp\\test_1\\assets\\character\\idle.anim.meta": {
+    "time": 1625595770008.2207
+  },
+  "C:\\Users\\qp\\test_1\\assets\\character\\idle.anim": {
+    "time": 1625595856668.3672,
+    "uuid": "fe109875-f472-455e-ad48-b2c4d6d3bee8",
+    "missing": false
+  }
+}

@@ -1,0 +1,18 @@
+2021-07-06 23:13:22-log: [Package] menu@1.0.0 enable
+2021-07-06 23:13:22-log: [Package] messages@1.0.0 enable
+2021-07-06 23:13:22-log: [Package] program@1.0.0 enable
+2021-07-06 23:13:22-log: [Package] device@1.0.1 enable
+2021-07-06 23:13:22-log: [Package] ui-kit@1.0.0 enable
+2021-07-06 23:13:22-log: [Package] tester@1.0.0 enable
+2021-07-06 23:13:22-log: [Package] preferences@1.0.0 enable
+2021-07-06 23:13:23-log: Setup mods mgr.: 379.475ms
+2021-07-06 23:13:29-log: [Package] programming@1.0.0 enable
+2021-07-06 23:13:23-log: [Package] engine@1.0.5 enable
+2021-07-06 23:13:29-log: [Package] console@1.0.0 enable
+2021-07-06 23:13:22-log: [Package] profile@1.0.0 enable
+2021-07-06 23:13:29-log: [Package] asset-db@1.0.0 enable
+2021-07-06 23:13:30-log: [Package] scene@1.0.0 enable
+2021-07-06 23:13:30-log: [Package] project@1.0.1 enable
+2021-07-06 23:13:30-log: [Package] about@1.0.0 enable
+2021-07-06 23:13:30-log: [Package] server@1.0.0 enable
+2021-07-06 23:13:30-log: [Package] utils@1.0.0 enable
